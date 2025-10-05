@@ -1,0 +1,12 @@
+pandas
+openpyxl
+pdfplumber
+streamlit
+langchain
+langchain-community
+langchain-neo4j
+langchain-google-genai
+neo4j
+python-dotenv
+requests
+langchain_experimental
